@@ -1,1 +1,2 @@
 some bugs in the website
+errors are eliminated
